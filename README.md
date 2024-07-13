@@ -1,7 +1,7 @@
 ## Welcome! I'm Diogo Frota 👋 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/military.gif" width="30px">
 
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
-I’m passionate about technology and always ready to collaborate on interesting projects.
+I like so much technology and always ready to collaborate on projects.
 
 
 ## 
