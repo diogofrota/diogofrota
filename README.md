@@ -1,4 +1,4 @@
-## Welcome! I'm Diogo Frota 👋 <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/military.gif" width="30px">
+## Welcome! I'm Diogo Frota 👋
 
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
 
