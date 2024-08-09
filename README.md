@@ -1,4 +1,4 @@
-## Welcome! I'm Diogo Frota 👋
+## Hi! I'm Diogo Frota 👋
 
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
 
