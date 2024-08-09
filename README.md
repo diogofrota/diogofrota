@@ -3,7 +3,7 @@
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
 
 ## 
-**Skill with: 💪**
+**Skill: 💪**
 
 <table>
   <tr>
