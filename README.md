@@ -2,8 +2,6 @@
 
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
 
-## 
-**Skill: 💪**
 
 <table>
   <tr>
@@ -22,6 +20,11 @@ I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). 
     <td align="center" width="120">
       <img src="./img/js.png" width="24" height="24" alt="html" /><br>
       <spam> JavaScript </spam>
+    </td>
+    </td>
+    <td align="center" width="120">
+<!--       <img src="./img/js.png" width="24" height="24" alt="html" /><br> -->
+      <spam> ... </spam>
     </td>
   </tr>
 </table>
