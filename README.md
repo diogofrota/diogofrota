@@ -2,7 +2,7 @@
 
 I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). <br>
 
-
+<!--
 <table>
   <tr>
     <td align="center" width="120">
@@ -23,9 +23,9 @@ I'm a Software Engineer Student at [FIAP University](https://www.fiap.com.br/). 
     </td>
     </td>
     <td align="center" width="120">
-<!--       <img src="./img/js.png" width="24" height="24" alt="html" /><br> -->
+     <img src="./img/js.png" width="24" height="24" alt="html" /><br>
       <spam> ... </spam>
     </td>
   </tr>
-</table>
+</table> -->
 
