@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cyber-security-2.png" alt="Cybersecurity Banner" />
+</p>
+
 # 👋 Hi, I'm Diogo Frota  
 
 💻 Software Engineer | 🔐 CyberSecurity Student at [FIAP University](https://www.fiap.com.br/)  
