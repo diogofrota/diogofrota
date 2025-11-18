@@ -35,7 +35,7 @@
 
 ## 📫 Connect with Me
 🌐 [LinkedIn](https://www.linkedin.com/in/diogofrota)  
-📧 diogo.frota@email.com  
+📧 diogofrota@icloud.com
 
 ---
 ⭐️ *"Keep learning, keep hacking, keep growing."*
