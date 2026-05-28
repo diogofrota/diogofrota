@@ -1,9 +1,9 @@
 
 # I'm Diogo Frota  
 
-💻 Software Engineer | 🔐 CyberSecurity Student at [FIAP University](https://www.fiap.com.br/)  
-🎯 Focused on **Penetration Testing, Cloud Security, and Red Team Operations**  
-🌍 Passionate about **Technology, Cyber Defense, and Innovative Solutions**  
+- 💻 Software Engineer 
+- 🔐 CyberSecurity 
+- 🎯 Focused on **Penetration Testing, Cloud Security, and Red Team Operations**  
 
 ---
 
