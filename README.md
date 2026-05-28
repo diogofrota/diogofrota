@@ -14,10 +14,4 @@
 - **Tools**: Git | GitHub | Docker | VS Code | IntelliJ  
 
 ---
-
-## 📫 Connect with Me
-🌐 [LinkedIn](https://www.linkedin.com/in/diogofrota)  
-📧 diogofrota@icloud.com
-
----
 ⭐️ *"Keep learning, keep hacking, keep growing."*
