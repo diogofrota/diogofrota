@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="cyber-security-2.png" alt="Cybersecurity Banner" />
-</p>
 
-# 👋 Hi, I'm Diogo Frota  
+# I'm Diogo Frota  
 
 💻 Software Engineer | 🔐 CyberSecurity Student at [FIAP University](https://www.fiap.com.br/)  
 🎯 Focused on **Penetration Testing, Cloud Security, and Red Team Operations**  
@@ -26,12 +23,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogofrota&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogofrota&layout=compact&theme=tokyonight)  
-
----
 
 ## 📫 Connect with Me
 🌐 [LinkedIn](https://www.linkedin.com/in/diogofrota)  
